@@ -1,3 +1,24 @@
+#clockStyle {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
 .hidden {
   display: none;
+}
+
+.weatherStyle {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.centerStyle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
